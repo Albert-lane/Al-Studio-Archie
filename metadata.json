@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Voice Lab",
+  "description": "Advanced multi-modal research platform for audio synthesis, visual analysis, and real-time voice conversations powered by Gemini 3.1.",
+  "requestFramePermissions": ["microphone", "camera", "display-capture"],
+  "majorCapabilities": []
+}

@@ -1,0 +1,15 @@
+{
+  "isDxtAutoUpdatesEnabled": false,
+  "preferences": {
+    "chillingSlothLocation": {
+      "customPath": "C:\\Ops\\__Albert_Project__\\Pilot"
+    },
+    "ccBranchPrefix": "%Date%",
+    "launchPreviewPersistSession": true,
+    "coworkScheduledTasksEnabled": false,
+    "ccdScheduledTasksEnabled": true,
+    "dockBounceEnabled": true,
+    "coworkWebSearchEnabled": true,
+    "sidebarMode": "epitaxy"
+  }
+}

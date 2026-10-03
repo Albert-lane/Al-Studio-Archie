@@ -1,0 +1,63 @@
+{
+	"locale": "en-US",
+	"lastSeenRequireCoworkFullVmSandbox": null,
+	"userThemeMode": "system",
+	"hasTrackedInitialActivation": true,
+	"oauth:tokenCache": "djEwNm9WbQazMesOSNbTh6gXjMII20i0xgYMsmF6IeAnHWC1C5la8iM4n/rDIeP0DXMfyBVDBT2+PLCNIt6WQ1h3KNeKjg38kd93FvoxmwSthCyQopN1K2cvVWf74A0xe9EPFKIl70vnhow0JHSItU6rw+QFQ0ox4iygRtQywwWTJIMKyWWBr1Lpp/FiMlxU1xtd2nJlhJ2W/2QinLMYFLXoDdrF/scL6i7she1O7+0zEfN8IUt7suD6lXCCn3+fMi57DysuPwK7vatKcdY4rBQvz8iVcIQx3YcXftQTV12rw4z7dUDzzpe4Rccg5GITqglXuOOrp92F2GcJMw/7ZHdrMhE3IkCSxETCX7xEc6pcVIhbcRm3ZbCbr4JCaq94Lx0DDmT+rnh7cdZjDed7wnBmYjQuap1cTxP0MG717KUufGJOgZTWpS/Gmf1eQctYZPPrPtG2S98atGUWCEGeITki15iW4585dvE3+68HU+GdMmproUp91OgTu4OEeFePLZGpdCgOfwfWPOUEt/eUgdaUBdaGnvz2pGb2bmqXp1hHNa0Et4j+PnFK6dy/YMEbpm/VIEAsviPxr1Hra7NLZQJRnDMT6eK+V7rGMSpHczEXutGSCdTaUjWjWk+YvA==",
+	"dxt:allowlistEnabled:acd4bc67-710a-4024-963d-a372c90a4155": false,
+	"dxt:allowlistLastUpdated:acd4bc67-710a-4024-963d-a372c90a4155": "2026-04-21T03:53:48.839Z",
+	"dxt:allowlistCache:acd4bc67-710a-4024-963d-a372c90a4155": "djEwjT/aXdsgQZxYDoEUfhgx4f/eVtpNaPeFPN5ntOCwijvzplA7zVyACv1o0EAzLc3s9O6M1FEVqgcVqDIEjRDoX97WqHuv0r92HbKqfHea5DplRq8=",
+	"quickWindowPosition": {
+		"absolutePointInWorkspace": {
+			"x": 465,
+			"y": 173
+		},
+		"monitor": {
+			"accelerometerSupport": "unknown",
+			"bounds": {
+				"x": 0,
+				"y": 0,
+				"width": 1536,
+				"height": 864
+			},
+			"colorDepth": 32,
+			"colorSpace": "{primaries:BT709, transfer:SRGB, matrix:RGB, range:FULL}",
+			"depthPerComponent": 8,
+			"detected": true,
+			"displayFrequency": 60,
+			"id": 3429739394,
+			"internal": true,
+			"label": "",
+			"maximumCursorSize": {
+				"width": 0,
+				"height": 0
+			},
+			"monochrome": false,
+			"nativeOrigin": {
+				"x": 0,
+				"y": 0
+			},
+			"rotation": 0,
+			"scaleFactor": 1.25,
+			"size": {
+				"width": 1536,
+				"height": 864
+			},
+			"workArea": {
+				"x": 0,
+				"y": 0,
+				"width": 1536,
+				"height": 816
+			},
+			"workAreaSize": {
+				"width": 1536,
+				"height": 816
+			},
+			"touchSupport": "unknown"
+		},
+		"relativePointFromMonitor": {
+			"x": 465,
+			"y": 173
+		}
+	}
+}
